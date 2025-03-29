@@ -1,4 +1,4 @@
-# book
+# book-club-api
 
 💧 A project built with the Vapor web framework.
 
@@ -19,9 +19,3 @@ To execute tests, use the following command:
 swift test
 ```
 
-### See more
-
-- [Vapor Website](https://vapor.codes)
-- [Vapor Documentation](https://docs.vapor.codes)
-- [Vapor GitHub](https://github.com/vapor)
-- [Vapor Community](https://github.com/vapor-community)
