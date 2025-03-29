@@ -6,6 +6,9 @@ DerivedData/
 .DS_Store
 db.sqlite
 .swiftpm
+.idea
 .env
 .env.*
 !.env.example
+.index-build
+.fleet

@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  postgres:
+    container_name: book-test
+    image: postgres:17
+    environment:
+      - POSTGRES_USER=
+      - POSTGRES_PASSWORD=
+      - POSTGRES_DB=
+    ports:
+      - 5432:5432
